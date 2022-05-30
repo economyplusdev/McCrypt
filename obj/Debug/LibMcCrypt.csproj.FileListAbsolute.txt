@@ -1,0 +1,9 @@
+C:\Users\fodag\Desktop\mctools\McCrypt\bin\Debug\LibMcCrypt.dll
+C:\Users\fodag\Desktop\mctools\McCrypt\bin\Debug\LibMcCrypt.pdb
+C:\Users\fodag\Desktop\mctools\McCrypt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fodag\Desktop\mctools\McCrypt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fodag\Desktop\mctools\McCrypt\obj\Debug\LibMcCrypt.csproj.AssemblyReference.cache
+C:\Users\fodag\Desktop\mctools\McCrypt\obj\Debug\LibMcCrypt.csproj.CoreCompileInputs.cache
+C:\Users\fodag\Desktop\mctools\McCrypt\obj\Debug\LibMcCrypt.csproj.CopyComplete
+C:\Users\fodag\Desktop\mctools\McCrypt\obj\Debug\LibMcCrypt.dll
+C:\Users\fodag\Desktop\mctools\McCrypt\obj\Debug\LibMcCrypt.pdb
